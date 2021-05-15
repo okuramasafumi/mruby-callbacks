@@ -1,0 +1,7 @@
+name: mruby-callbacks
+description: Callbacks class
+author: OKURA Masafumi
+website: https://github.com/okuramasafumi/mruby-callbacks
+protocol: git
+repository: https://github.com/okuramasafumi/mruby-callbacks.git
+license: MIT
